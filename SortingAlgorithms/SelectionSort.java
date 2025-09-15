@@ -1,3 +1,5 @@
+package SortingAlgorithms;
+
 public class SelectionSort{
     public static void main(String[] args){
         int[] arr = {1, 5, 2, 9, 7};
