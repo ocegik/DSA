@@ -1,3 +1,5 @@
+package SortingAlgorithms;
+
 public class QuickSort {
     public static void main(String[] args){
         int[] arr = {1, 5, 9, 3, 6};

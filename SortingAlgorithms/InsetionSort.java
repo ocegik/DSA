@@ -1,3 +1,4 @@
+package SortingAlgorithms;
 public class InsetionSort {
     public static void main(String[] args){
 
