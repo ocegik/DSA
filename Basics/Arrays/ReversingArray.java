@@ -1,4 +1,4 @@
-package Basics;
+package Basics.Arrays;
 
 public class ReversingArray {
 
